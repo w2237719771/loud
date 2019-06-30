@@ -12,4 +12,8 @@ public class Item {
 	private Integer id;
 	private String name;
 	private Integer number;
+	
+	
+	
+	//又加了    到刺猬理修改
 }
